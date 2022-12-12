@@ -1,7 +1,8 @@
 # Notes for Code Fellows
 
 Hi, my name is Trey and I love cats! :smiley_cat:
-![Not my cat](https://i.guim.co.uk/img/media/c5e73ed8e8325d7e79babf8f1ebbd9adc0d95409/2_5_1754_1053/master/1754.jpg?width=1200&quality=85&auto=format&fit=max&s=4219f64fafe19d101f92e0eba0181f6a)
+
+![Not my cat](https://i.guim.co.uk/img/media/c5e73ed8e8325d7e79babf8f1ebbd9adc0d95409/2_5_1754_1053/master/1754.jpg?width=465&quality=85&dpr=1&s=none)
 
 Here is a link to [my github profile](https://github.com/goodpudding)
 
