@@ -2,7 +2,7 @@
 
 Hi, my name is Trey and I love cats!
 
-Here is a link to [my github profile] (https://github.com/goodpudding)
+Here is a link to [my github profile](https://github.com/goodpudding)
 
 ### What a growth mindset means to me is...
 Turning a obstacle into a rung of a ladder and using that obstacle to grow.
