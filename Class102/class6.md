@@ -1,17 +1,11 @@
-# Name of the Subject
+# Read: 06 - Dynamic web pages with JavaScript
 
-## *a sentence that gives a brief description of what it was I was taking notes on*
+## *JavaScript(whcih is not the smae as java) is a langauge that enables functionalitly to the website, so that it can do more than just display information.*
 
-* MAKE A FEW BULLET POINTS
+* JavaScript is a JIT(Just-in-time compilation) aka dynamic translation, which is a combination of AOT(Ahead-of-time comilation) and interpretation. Basically, it to where the code could use inputs in real time to execute preprogrammed functions
 
-* MAKE A FEW BULLET POINTS
+* Similar to CSS, JS can be added directly in to the code of HTML, but it is better to have an external document that the HTML points to
 
-* MAKE A FEW BULLET POINTS
+* The 4 ways to use variableis is: var, let, const, (nothing). variables should be named
 
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
-
-Write a sentence about the subject matter. Go into depth about what I learned and what it might mean to me in the future. Give an example from the reading.
+I'm really excited to start implementing JavaScript. It makes your website more interactive and dynamic. I'm starting to see how much webdesign is actually an art form. As you work on your website, you add layer on layer and it starts to really come to life.
