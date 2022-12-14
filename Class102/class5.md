@@ -1,17 +1,15 @@
-# Name of the Subject
+# Read: 05 - Design web pages with CSS
 
-## *a sentence that gives a brief description of what it was I was taking notes on*
+## *CSS(Cascading Style Sheets) is a way of taking the information presented with HTML and change the properties(i.e. color, size, location, opacity, etc.)*
 
-* MAKE A FEW BULLET POINTS
+* CSS uses tags or ids as a selector. Then it takes a property and gives it a value.
 
-* MAKE A FEW BULLET POINTS
+* There is Internal, External and Inline ways to use CSS with HTML
 
-* MAKE A FEW BULLET POINTS
+  * Internal is when the CSS is used within the HTML(usually with the style inside the head element)
 
-* MAKE A FEW BULLET POINTS
+  * External is when the CSS is in a seperate document that is used in tandem with teh HTML
 
-* MAKE A FEW BULLET POINTS
+  * Inline is when the CSS is used within a line of HTML
 
-* MAKE A FEW BULLET POINTS
-
-Write a sentence about the subject matter. Go into depth about what I learned and what it might mean to me in the future. Give an example from the reading.
+It makes sense that there is the HTML doc and the CSS doc, but conveinent that you could also include css directly into HTML if its something small. Using your wireframe really helps you write the HTML in a way that functionally makes sense and should make apply the CSS to the HTML really easy. Another film analogy, its like editing the film when you have the storyboard. If planned things out, then its super easy to look at the preproduction for design choices.
