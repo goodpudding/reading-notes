@@ -1,8 +1,8 @@
-# Name of the Subject
+# Read: 08 - Operators and Loops
 
-## *a sentence that gives a brief description of what it was I was taking notes on*
+## *Operators are a way of taking simple math and other commands and build it within the function to save time. Loops are a way for code to check itself until it gets a result that it needs to continue.*
 
-* MAKE A FEW BULLET POINTS
+* even though = is an assignment operator, because it is assigning a value to something, where as == is a comparison operator, because it is looking to see if the value is equal.
 
 * MAKE A FEW BULLET POINTS
 

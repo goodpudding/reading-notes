@@ -14,4 +14,4 @@
 
 * MAKE A FEW BULLET POINTS
 
-I took a class for JavaScript before, so most of this is just a resfresher, but I like what JS allows webdevelopers to do. 
+I took a class for JavaScript before, so most of this is just a resfresher, but I like what JS allows webdevelopers to do.
