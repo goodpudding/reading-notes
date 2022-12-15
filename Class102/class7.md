@@ -1,17 +1,17 @@
-# Name of the Subject
+# Read: 07 - Programming with JavaScript
 
-## *a sentence that gives a brief description of what it was I was taking notes on*
+## *The reading was diving deeper into JavaScript and what it can do. It went in depth about functions, expressions and operators*
 
-* MAKE A FEW BULLET POINTS
+* Control flow is the order in which the code executes. For the most part, the code is linear, except for conditional or loop functions.
 
-* MAKE A FEW BULLET POINTS
+* Defining a function, you first say the name of the function, list the parameters of the function in parentheses, then JavaScript functions that define the function.
 
-* MAKE A FEW BULLET POINTS
+* The different type of operators include: Assignment, Comparison, Arithemetic, Bitwise, Logical, BigInt, String, Conditional (ternary), Comma, Unary, Relational.
 
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
+* You have to declare the function before you use it, so you have to be sure you put your function in a place that makes sense. You also need to keep in mind the scope of the function. If you put a function within a parent function, then you can't use that function outsite the scope of the parent function.
 
 * MAKE A FEW BULLET POINTS
 
-Write a sentence about the subject matter. Go into depth about what I learned and what it might mean to me in the future. Give an example from the reading.
+* MAKE A FEW BULLET POINTS
+
+I took a class for JavaScript before, so most of this is just a resfresher, but I like what JS allows webdevelopers to do. 
