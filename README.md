@@ -1,4 +1,4 @@
-# Notes for Code Fellows
+# Reading Notes
 
 Hi, my name is Trey and I love cats!
 
@@ -8,11 +8,11 @@ Here is a link to [my github profile](https://github.com/goodpudding)
 
 ## What is the purpose of this website??
 
-This is a website for my notes regarding 102
+This is a website for my notes at Code Fellows
 
 Table of Contents:
 
-Class 102:
+##Code 102 - Intro to Software Development
 
 - [Class 1](Class102/class1.md)
 - [Class 2](Class102/class2.md)
@@ -23,7 +23,7 @@ Class 102:
 - [Class 7](Class102/class7.md)
 - [Class 8](Class102/class8.md)
 
-Class 201:
+##Code 201 - Foundations of Software Development
 
 - [Class 1](Class201/class1.md)
 - [Class 2](Class201/class2.md)
@@ -40,3 +40,7 @@ Class 201:
 - [Class 13](Class201/class13.md)
 - [Class 14](Class201/class14.md)
 - [Class 15](Class201/class15.md)
+
+##Code 301 - Intermediate Software Development
+
+##Code 401 - Advanced Software Development
