@@ -1,7 +1,5 @@
 # Forms and JS Events
 
-Markdown seems to be a convient way to create quick websites, without the complication of HTML.  
-One thing I found out, you must double space in order to break to the next line
 
 ## Reading
 
