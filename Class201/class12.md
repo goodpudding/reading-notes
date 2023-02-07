@@ -1,17 +1,20 @@
-# Name of the Subject
+# Chart.js, Canvas
 
-## *a sentence that gives a brief description of what it was I was taking notes on*
+## *Javascript Canvas*
 
-* MAKE A FEW BULLET POINTS
+* *What does the <canvas> allow a developer to acheive?* Canvas allows you to draw 2d elements, like ms paint
+  
+* *What is the importance of the closing `</canvas> tag?* It's important to close the canvas tag because anything inside the canvs tag will only be shown if the browser doesn't support canvas.
 
-* MAKE A FEW BULLET POINTS
+* *Explain what the getContext() method does.* It returns a rendered 2d object
 
-* MAKE A FEW BULLET POINTS
+## *Chart.js Documentation:*
+* *What is Chart.js and how it can be brought into your project?* It is an api loaded with charts that you can import using script src
 
-* MAKE A FEW BULLET POINTS
+* *List 3 different Chart types you can create using Chart.js.* You can use Area, Bar and Bubble to name a few
 
-* MAKE A FEW BULLET POINTS
+## *Easily Create Stunning Animated Charts with Chart.js*
 
-* MAKE A FEW BULLET POINTS
+* *What are some advantages to displaying data via a chart over a table?* Charts can be easier to visualize data
 
-Write a sentence about the subject matter. Go into depth about what I learned and what it might mean to me in the future. Give an example from the reading.
+* *How could Chart.js aid your previously created applications visually?* It could added it visually by giving it something more visually exciting and instead of displaying boring numbers, I can use representations of the numbers with charts. 
