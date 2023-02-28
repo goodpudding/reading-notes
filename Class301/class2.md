@@ -33,3 +33,16 @@ When the user does something that changes the applicationm.
 * What are some examples of things that we could store in state?
 
 Things that we might need to keep track of that would increment.
+
+
+## Notes from Class
+
+3 things we need when using react:
+Import React, declare the class(probably need to have a render), export the class
+
+<> </> marginal or fractional element
+
+files that need to be used on your website from react, need to be in your public file.
+you can access them just by referncing the folder the images are you
+if you need to use the src folder you have to use ./ to go to it.
+
