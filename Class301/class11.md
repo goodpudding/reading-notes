@@ -1,15 +1,14 @@
 ## *a sentence that gives a brief description of what it was I was taking notes on*
 
-* MAKE A FEW BULLET POINTS
+In your own words, describe what each group of status code represents:
 
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
-
-Write a sentence about the subject matter. Go into depth about what I learned and what it might mean to me in the future. Give an example from the reading.
+100’s =
+200’s =
+300’s =
+400’s =
+500’s =
+What is a status code 202?
+What is a status code 308?
+What code would you use if an update didn’t return data to a client?
+What code would you use if a resource used to exist but no longer does?
+What is the ‘Forbidden’ status code?
