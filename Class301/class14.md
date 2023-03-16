@@ -1,15 +1,22 @@
-## *a sentence that gives a brief description of what it was I was taking notes on*
+## *Diversity & Inclusion in the Tech Industry*
 
-* MAKE A FEW BULLET POINTS
+* *What occurred during the same time as the beginning of the decline of women in computer science?*
 
-* MAKE A FEW BULLET POINTS
+  Marketing favored boys
+  
+* *Why does it matter that males had been playing on computers growing up?*
 
-* MAKE A FEW BULLET POINTS
+  They had increased exposure which gave them more confidenence using it. 
+  
+* *When are diversity efforts most successful?*
 
-* MAKE A FEW BULLET POINTS
+  Diversity efforts are most successful when they’re driven by a commitment from company leaders.
+  
+* *Why do diverse companies perform better?*
 
-* MAKE A FEW BULLET POINTS
+  Because with more unique prespectives, you get better problem solving abilities.
+  
+* *Give an example of how a diverse company can serve a diverse user base or vise-versa.*
 
-* MAKE A FEW BULLET POINTS
-
-Write a sentence about the subject matter. Go into depth about what I learned and what it might mean to me in the future. Give an example from the reading.
+  Well, if you build a product with only one type of product line, than you will only be able to please one type of customer. 
+  
