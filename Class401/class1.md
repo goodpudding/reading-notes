@@ -1,15 +1,17 @@
-## *a sentence that gives a brief description of what it was I was taking notes on*
+# *Node Ecosystem*
 
-* MAKE A FEW BULLET POINTS
+## An Introduction to Node.js on sitepoint.com
 
-* MAKE A FEW BULLET POINTS
+* *How would you describe Node to a non-technical friend?*
 
-* MAKE A FEW BULLET POINTS
+  * Node is a nifty program that allows programs that I write be able to run, since the code I write in activates when its called, node allows me to call that program that I wrote. 
 
-* MAKE A FEW BULLET POINTS
+* *What does it mean that Node is a JavaScript runtime?*
 
-* MAKE A FEW BULLET POINTS
+  * It means that it allows javascript to run. Whereas something like C# needs a compiler to create it as a standalone program, Javascript is used when its called on so it needs a runtime. A timeframe to activate. 
 
-* MAKE A FEW BULLET POINTS
+* *What is Node used for?*
 
-Write a sentence about the subject matter. Go into depth about what I learned and what it might mean to me in the future. Give an example from the reading.
+  * Node is what allows javascript to execute. Its like how in js, a function won't run unless you invoke it. With Node, you're invoking your javascript file.
+
+I guess I'm pretty excited to learn about AWS and React Native. I think being able to build apps will be really handy and from my understanding, you can with React Native.
