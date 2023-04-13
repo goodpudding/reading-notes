@@ -1,15 +1,9 @@
-## *a sentence that gives a brief description of what it was I was taking notes on*
+# Class 9
 
-* MAKE A FEW BULLET POINTS
+## Idea 1
 
-* MAKE A FEW BULLET POINTS
+* Cat rescue foster / adoption tracker. Create a backend end for a cat rescue that could track new cats in the database, what there status is with shots, what food they like, who their being fostered with and their contact. Lots of good information to track and lots of great ways to pair it together.
 
-* MAKE A FEW BULLET POINTS
+## Idea 2
 
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
-
-* MAKE A FEW BULLET POINTS
-
-Write a sentence about the subject matter. Go into depth about what I learned and what it might mean to me in the future. Give an example from the reading.
+* Craft even tracker. I am part of a nonprofit that put on affordable craft classes where we teach the community how to do a fun art craft. The tracker could keep track of what classes are available, who teaches what classes, what supplies would be needed, maybe what date they could be hosted? I'm sure there is lots of great data to be tracked here too.
