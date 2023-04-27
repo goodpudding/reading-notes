@@ -1,4 +1,4 @@
-# Evenets
+# Events
 
 ## AWS SQS vs SNS
 
